@@ -1,12 +1,12 @@
 <p align="center">
   <a href="https://gitpoint.co/">
-    <img alt="Chatbot" title="Chatbot" src="https://github.com/edwin06111998/Imagenes/blob/main/Proceso%20Chatbot/Header%20Monitoreo.jpg">
+    <img alt="Chatbot" title="Chatbot" src="https://github.com/edwin06111998/Imagenes/blob/main/Proceso%20Chatbot/Header%20Dise%C3%B1o.jpg">
   </a>
 </p>
-<h1 align="center"> Monitoreo de Servidores </h1> <br>
+<h1 align="center"> Diseño de páginas webs y móviles </h1> <br>
 
 <p align="center">
-  Envío de alerta en tiempo real sobre la conexión del servidor.
+  Diseñadas en Adobe Ilustrator y Procreate.
 </p>
 
 ## Tabla de contenidos
@@ -22,34 +22,25 @@
 
 ## Introducción
 
-Servicio de alerta de monitoreo de servidores y antenas de energía eléctrica UISP. El sistema está desarrollado en Python, se ejecuta en tiempo real sobre un servidor Linux, envía alertas sobre el estado de conexión del servidor, a través de WhatsApp.
+Colección de páginas webs y móviles diseñadas en Adobe Ilustrator y Procreate, desarrollado el Front End usando HTML, Bootstrap y JavaScript para otorgar una mayor funcionalidad.
 
-**Dispinible para WhatsApp, Telegram o Messenger.**
+**Versión web y móvil**
 
 <p align="center">
-  <img src = "https://raw.githubusercontent.com/edwin06111998/monitoreo_servidores_alerta/main/images/Captura.png" width=700>
+  <img src = "https://github.com/edwin06111998/Imagenes/blob/main/Proceso%20Chatbot/Mobile.jpg">
 </p>
 
 ## Funciones
 
-Estas son algunas de las características del sistema de monitoreo:
+Estas son algunas de las características de los diseños:
 
-* Verificar el estado de conexión de servidores.
-* Verificar el estado de conexión de antenas UISP.
-* Notificar en tiempo real mediante WhatsApp sobre caída de servidor/antena.
-* Notificar sobre restablecimiento de conexión de servidor/antena.
-* Enviar alerta cada 15 minutos en caso de que el servidor/antena siga caído.
-* Almacenar registro de eventos.
-* Lectura dinámica de direcciones IPs de servidores/antenas.
-* Agregar múltiples destinatarios simultáneos para recibir la alerta.
-* Escalabilidad y posibilidad de implementarse en una interfaz web.
+* Correcta distribución de los elementos gráficos.
+* Buena jerarquía de la información.
+* Estilo de acuerdo a la temática de la página web y móvil.
+* Diseño fiel al concepto creativo y comunicacional.
 <h1></h1>
 <p align="center">
-  <img src = "https://raw.githubusercontent.com/edwin06111998/monitoreo_servidores_alerta/main/images/Alerta2.png" width=350>
-</p>
-
-<p align="center">
-  <img src = "https://raw.githubusercontent.com/edwin06111998/monitoreo_servidores_alerta/main/images/Alerta.png" width=350>
+  <img src = "https://github.com/edwin06111998/Imagenes/blob/main/Proceso%20Chatbot/Desktop.jpg">
 </p>
 
 ## Retroalimentación
@@ -58,20 +49,7 @@ Siéntete libre de comentarme tu experiencia utilizando este sistema, puedes esc
 
 ## Contribuidores
 
-Este proyecto ha sido desarrollado únicamente por mí (Edwin Veloz).
-
-## Proceso de construcción
-
-- Clona o descarga el repositorio
-- Crea una aplicación en Facebook para usar la API de WhatsApp
-- Obtén un token permanente y el ID de la aplicación
-- Crea las plantillas en Facebook para los mensajes de alerta
-- Ingresa el token y ID en el archivo send_message.py
-- Modifica el "filepath" ingresando la ruta del repositorio en los archivos ping.py y antennas.py
-- Ingresa las IPs en el archivo ips.txt y los destinatarios en el archivo numbers.txt
-- Ejecuta ping.py y antennas.py
-
-Importante: para ejecutar el código 24/7, puedes implementarlo en un servidor Linux y usar comandos como "crontab -e" para ejecutar el código cada determinado tiempo.
+Estos diseños han sido desarrollados por (Edwin Veloz).
 
 ## Contacto
 
